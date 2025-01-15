@@ -44,10 +44,10 @@ This e-mail can be seen in this timestamped video on
 > 
 > The annual event you've all been eagerly awaiting for is upon us again: THE COMMUNITY OUTREACH
 > BARBECUE. Now, I don't want to hear any grumbling - this is a valuable opportunity to connect
-> with the community. Statistics show that > officers who are well-integrated with the
-> communities they serve see lower > instances of violent crime in their precincts, are more
-> effective in their policing, and have overall better mental wellness. This is for YOUR BENEFIT,
-> so take it seriously.
+> with the community. Statistics show that officers who are well-integrated with the communities
+> they serve see lower instances of violent crime in their precincts, are more effective in their
+> policing, and have overall better mental wellness. This is for YOUR BENEFIT, so take it
+> seriously.
 > 
 > The community-voted dunk tank victim this year will be... drumroll please... DEPUTY THORNTON.
 > Congratulations! Looks like everyone's getting retribution for that speed trap on 12C at last,
