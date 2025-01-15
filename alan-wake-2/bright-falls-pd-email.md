@@ -19,6 +19,9 @@ I've transcribed it below.
 Basically what the e-mail is discussing sounds like a homemade version of or a precursor to
 [National Night Out](https://en.wikipedia.org/wiki/National_Night_Out).
 
+This e-mail can be seen in this timestamped video on
+[YouTube](https://youtu.be/ic1yuXLQAwo?list=PLC8FcymY6DIdhd3kwW_I-ZANaaR8DCvyO&t=1349).
+
 ## E-mail metadata
 
 * Title: 3rd Annual Community Outreach Barbecue
