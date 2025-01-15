@@ -28,11 +28,15 @@ Basically what the e-mail is discussing sounds like a homemade version of or a p
 ## E-mail body
 
 > 3rd Annual Community Outreach Barbecue
+> 
 > ---
-> from: Sheriff Tim Breaker
-> to: Sheriff's Station Team
-> 09/07/2023 03:22 PM
+> 
+> from: Sheriff Tim Breaker<br>
+> to: Sheriff's Station Team<br>
+> 09/07/2023 03:22 PM<br>
+> 
 > ---
+> 
 > Hey gang,
 > 
 > The annual event you've all been eagerly awaiting for is upon us again: THE COMMUNITY OUTREACH
