@@ -1,5 +1,17 @@
 # iFixit FixHub Soldering Iron firmware changelog
 
+## 1.4.2
+
+Oct 15, 2025
+
+No functional changes
+
+## 1.4.1
+
+Aug 8, 2025
+
+No functional changes
+
 ## 1.4.0
 
 Jun 30, 2025
