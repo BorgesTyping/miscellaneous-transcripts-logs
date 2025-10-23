@@ -1,5 +1,19 @@
 # Version history
 
+## 1.4.2
+
+Oct 15, 2025
+
+No functional changes
+
+## 1.4.1
+
+Aug 8, 2025
+
+- Fixed bootlooping errors that occurred when charging a dead battery
+- Improved accuracy of charge timer warnings
+- Minimized interruptions and clarified language regarding battery temperature errors
+
 ## 1.4.0
 
 Jun 30, 2025
