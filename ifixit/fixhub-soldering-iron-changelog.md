@@ -1,5 +1,23 @@
 # iFixit Smart Soldering Iron firmware changelog
 
+## 1.5.0
+
+Mar 31, 2026
+
+No functional changes
+
+## 1.4.4
+
+Mar 4, 2026
+
+- Fixed a logging issue which interfered with firmware updates
+
+## 1.4.3
+
+Jan 8, 2026
+
+- Improve temperature recovery after brief heater-off periods due to idle mode or transient errors.
+
 ## 1.4.2
 
 Oct 15, 2025
