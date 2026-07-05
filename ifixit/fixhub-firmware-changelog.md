@@ -1,4 +1,4 @@
-# Version history
+# iFixit Portable Soldering Station firmware changelog
 
 ## 1.4.2
 
