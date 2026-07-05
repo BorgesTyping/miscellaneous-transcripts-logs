@@ -1,10 +1,34 @@
 # iFixit Portable Soldering Station firmware changelog
 
+# 1.5.0
+
+Mar 31, 2026
+
+- Added voltage, current, and wattage display for USB ports
+- Added PPS (Programmable Power Supply) support for USB PD 3.0 devices
+- Fixed a bug which could cause a false "not charging" error
+
+## 1.4.4
+
+Mar 4, 2026
+
+No functional changes
+
+## 1.4.3
+
+Jan 8, 2026
+
+- Improve handling of charging warnings when Smart Station is off
+- Fix issue where Smart Station power-off timer was inconsistent when soldering iron is connected to the hub.
+
 ## 1.4.2
 
 Oct 15, 2025
 
-No functional changes
+- Reduced false faults when coming out of idle
+- Blink LED faster when fault is detected
+- Reduced jumpiness in power meter display
+- Improved sleep/wake motion detection
 
 ## 1.4.1
 
