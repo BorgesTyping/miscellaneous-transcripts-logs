@@ -1,4 +1,4 @@
-# iFixit FixHub Soldering Iron firmware changelog
+# iFixit Smart Soldering Iron firmware changelog
 
 ## 1.4.2
 
