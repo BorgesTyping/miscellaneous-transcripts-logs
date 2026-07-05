@@ -1,6 +1,6 @@
 # iFixit Portable Soldering Station firmware changelog
 
-# 1.5.0
+## 1.5.0
 
 Mar 31, 2026
 
